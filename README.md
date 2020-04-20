@@ -9,4 +9,4 @@ These are some of the websites that i have tried to make. I'm still learning and
 
 <img src ="images/price.PNG" alt = "title" style="max-width: 100%;">
 
-<img src ="images/footer.PNG" alt = "title" style="max-width: 100%;">
+<img src ="images/foot.PNG" alt = "title" style="max-width: 100%;">
